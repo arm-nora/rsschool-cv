@@ -1,2 +1,2 @@
-# rsschool-cv
-[resume](https://arm-nora.github.io/rsschool-cv/)
+# [rsschool-cv](https://arm-nora.github.io/rsschool-cv/cv)
+
